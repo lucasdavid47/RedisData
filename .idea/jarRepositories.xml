@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lombok" />
+      <option name="name" value="lombok" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.projectlombok/lombok" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="redisson" />
+      <option name="name" value="redisson" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.redisson/redisson" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="slf4j" />
+      <option name="name" value="slf4j" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.slf4j/slf4j-api" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype" />
+      <option name="name" value="sonatype" />
+      <option name="url" value="https://oss.sonatype.org/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
