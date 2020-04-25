@@ -1,4 +1,0 @@
-name: Fr.lucasprogram
-version: ${project.version}
-main: hgmcredisdata.fr.lucasprogram.Fr.lucasprogram
-description: Interface for Redis and BungeeCord
